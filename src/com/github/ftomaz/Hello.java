@@ -1,3 +1,4 @@
+package com.github.ftomaz;
 
 public class Hello {
 	
